@@ -1,0 +1,131 @@
+Category,Key,Description
+Passing,Gms,Games Played
+Passing,Att,Pass Attempts
+Passing,Cmp,Pass Completions
+Passing,Pct,Pass Completion Percentage
+Passing,Yds,Passing Yards
+Passing,YPA,Yards Per Pass Attempt
+Passing,TD,Touchdown Passes
+Passing,TD%,Touchdown Pass Percentage
+Passing,Int,Intercepted Passes
+Passing,Int%,Pass Interception Percentage
+Passing,Lg,Longest Pass Completion
+Passing,Sack,Passing Sacks
+Passing,Loss,Sack Yards Lost
+Passing,Rate,Passer Rating
+Rushing,Gms,Games Played
+Rushing,Att,Rushing Attempts
+Rushing,Yds,Rushing Attempts
+Rushing,Avg,Rushing Average
+Rushing,YPG,Rushing Yards Per Game
+Rushing,Lg,Longest Rush
+Rushing,TD,Rushing Touchdowns
+Rushing,FD,Rushing First Downs
+Receiving,Gms,Games Played
+Receiving,Rec,Receptions
+Receiving,Yds,Receiving Yards
+Receiving,Avg,Receiving Average
+Receiving,YPG,Receiving Yards Per Game
+Receiving,Lg,Longest Reception
+Receiving,TD,Touchdown Receptions
+Receiving,FD,First Down Receptions
+Receiving,Tar,Receiving Targets
+Receiving,YAC,Yards After Catch
+Scoring,Tot,Total Touchdowns
+Scoring,R,Rushing Touchdowns
+Scoring,P,Touchdown Receptions
+Scoring,KR,Kickoff Return Touchdowns
+Scoring,PR,Punt Return Touchdowns
+Scoring,IR,Interception Return Touchdowns
+Scoring,FR,Fumble Return Touchdowns
+Scoring,BK,Blocked Field Goal Touchdowns
+Scoring,FGR,Missed Field Goal Return Touchdowns
+Scoring,PAT,Extra Points Made
+Scoring,FG,Field Goals Made
+Scoring,Conv,Rushing & Receiving Conversions
+Scoring,Saf,Safeties
+Scoring,Pts,Points Scored
+Kickoff Returns,Gms,Games Played
+Kickoff Returns,Att,Pass Attempts
+Kickoff Returns,Cmp,Pass Completions
+Kickoff Returns,Pct,Pass Completion Percentage
+Kickoff Returns,Yds,Passing Yards
+Kickoff Returns,YPA,Yards Per Pass Attempt
+Kickoff Returns,TD,Touchdown Passes
+Kickoff Returns,TD%,Touchdown Pass Percentage
+Kickoff Returns,Int,Intercepted Passes
+Kickoff Returns,Int%,Pass Interception Percentage
+Kickoff Returns,Lg,Longest Pass Completion
+Kickoff Returns,Sack,Passing Sacks
+Kickoff Returns,Loss,Sack Yards Lost
+Kickoff Returns,Rate,Passer Rating
+Punt Returns,Gms,Games Played
+Punt Returns,Att,Pass Attempts
+Punt Returns,Cmp,Pass Completions
+Punt Returns,Pct,Pass Completion Percentage
+Punt Returns,Yds,Passing Yards
+Punt Returns,YPA,Yards Per Pass Attempt
+Punt Returns,TD,Touchdown Passes
+Punt Returns,TD%,Touchdown Pass Percentage
+Punt Returns,Int,Intercepted Passes
+Punt Returns,Int%,Pass Interception Percentage
+Punt Returns,Lg,Longest Pass Completion
+Punt Returns,Sack,Passing Sacks
+Punt Returns,Loss,Sack Yards Lost
+Punt Returns,Rate,Passer Rating
+Punting,Punts,Punts
+Punting,Yds,Punting Yards
+Punting,Avg,Gross Punting Average
+Punting,Lg,Longest Punt
+Punting,TB,Touchbacks
+Punting,In20,Punts Inside Opponents 20 Yard Line
+Punting,OB,Punts Out Of Bounds
+Punting,FC,Punts Fair Caught
+Punting,Dwn,Punts Downed
+Punting,Blk,Punts Blocked
+Punting,Net,Net Punting Average
+Punting,Ret,Punts Returned
+Punting,RYds,Punt Return Yards
+Punting,TD,Punt Return Touchdowns
+Field Goals,Gms,Games Played
+Field Goals,Att,Pass Attempts
+Field Goals,Cmp,Pass Completions
+Field Goals,Pct,Pass Completion Percentage
+Field Goals,Yds,Passing Yards
+Field Goals,YPA,Yards Per Pass Attempt
+Field Goals,TD,Touchdown Passes
+Field Goals,TD%,Touchdown Pass Percentage
+Field Goals,Int,Intercepted Passes
+Field Goals,Int%,Pass Interception Percentage
+Field Goals,Lg,Longest Pass Completion
+Field Goals,Sack,Passing Sacks
+Field Goals,Loss,Sack Yards Lost
+Field Goals,Rate,Passer Rating
+Interceptions,Gms,Games Played
+Interceptions,Att,Pass Attempts
+Interceptions,Cmp,Pass Completions
+Interceptions,Pct,Pass Completion Percentage
+Interceptions,Yds,Passing Yards
+Interceptions,YPA,Yards Per Pass Attempt
+Interceptions,TD,Touchdown Passes
+Interceptions,TD%,Touchdown Pass Percentage
+Interceptions,Int,Intercepted Passes
+Interceptions,Int%,Pass Interception Percentage
+Interceptions,Lg,Longest Pass Completion
+Interceptions,Sack,Passing Sacks
+Interceptions,Loss,Sack Yards Lost
+Interceptions,Rate,Passer Rating
+Sacks,Gms,Games Played
+Sacks,Att,Pass Attempts
+Sacks,Cmp,Pass Completions
+Sacks,Pct,Pass Completion Percentage
+Sacks,Yds,Passing Yards
+Sacks,YPA,Yards Per Pass Attempt
+Sacks,TD,Touchdown Passes
+Sacks,TD%,Touchdown Pass Percentage
+Sacks,Int,Intercepted Passes
+Sacks,Int%,Pass Interception Percentage
+Sacks,Lg,Longest Pass Completion
+Sacks,Sack,Passing Sacks
+Sacks,Loss,Sack Yards Lost
+Sacks,Rate,Passer Rating
